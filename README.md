@@ -13,3 +13,13 @@ Percent difference in salary increases with higher salaries
 1) Professor jobs are the highest paying, and known to have wide gaps depending on the type of professor. One hypothesis is less proportion of female professors in high paying STEM fields
 
 <!---2) Higher paying jobs like professor positions are less transparent regarding salary, and females suffer lower salaries than male counterparts. Whereas lower paying positions like custodians and bus drivers have more transparent and equal salaries.--->
+
+# Data Sources:
+Salary information 2010-2018
+http://www.open.georgia.gov/
+
+API for determining gender from first name:
+https://genderize.io/
+
+API wrapper:
+https://github.com/SteelPangolin/genderize
