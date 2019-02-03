@@ -15,7 +15,7 @@ Percent difference in salary increases with higher salaries
 <!---2) Higher paying jobs like professor positions are less transparent regarding salary, and females suffer lower salaries than male counterparts. Whereas lower paying positions like custodians and bus drivers have more transparent and equal salaries.--->
 
 # Data Sources:
-Salary information 2010-2018
+State of Georgia salary information 2010-2018
 http://www.open.georgia.gov/
 
 API for determining gender from first name:
