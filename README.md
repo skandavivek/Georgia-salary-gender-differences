@@ -6,9 +6,7 @@ Large discrepancy between median male and female salaries over a number of occup
 Closer look reveals that a significantly larger portion of female employees are in lower paid jobs (substitute teachers) as compared to male employees
 
 # Fig2
-
-Percent difference in salary increases with higher salaries
-
+With increasing salary by profession, the salary (percent!) difference between male and female employees gets larger.
 <!---# Hypotheses:
 1) Professor jobs are the highest paying, and known to have wide gaps depending on the type of professor. One hypothesis is less proportion of female professors in high paying STEM fields
 
