@@ -8,7 +8,7 @@ Here, I analyzed salaries from the Open Georgia database which has information a
 
 1) The proportion of women in low paying jobs (substitute teacher, 24%) relative to the total number of women in the dataset is significantly higher than the relative proportion of men (13%) in low paying jobs. Whereas the relative proportion of men in high paying jobs (professor, 3%) is significantly higher than the relative proportion of women (1%) in professor jobs.
 
-2) The percent difference between salaries of men and women in the same profession increases as the salary increases.
+2) The percent difference between salaries of men and women in the same profession increases as the salary increases (yes, the percent difference!).
 
 # Fig1
 Large discrepancy between median male and female salaries over a number of occupations across the state of Georgia
