@@ -3,6 +3,7 @@ Differences and trends in salaries based on gender at Georgia state institutions
 
 # SUMMARY
 Even in our current society with the emphasis on equal opportunity, there still exists a significant gender gap in opportunities and salaries. As a child, I was brought up by my single, working mother. Her challenges in the work environment were always felt at home, and I was inspired by her ability to overcome these difficulties.
+More recently, I've been aware of gender discrepancies in educational institutions. Why are educational roles so important? Well the next generation of working citizens are students. If students are in an environment where gender inequality is the norm, this will be carried on to the next generation. 
 
 Here, I analyzed salaries from the Open Georgia database which has information about the salary, type of profession, institution, and year ranging from 2010-2018. I used the genderize API to obtain information on gender based on first name. I found that in general, women employees have lower salaries than their male counterparts, by over 40%. The reason for this is two-fold:
 
