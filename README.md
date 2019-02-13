@@ -7,7 +7,7 @@ More recently, I've been aware of gender discrepancies in educational institutio
 
 Here, I analyzed salaries from the Open Georgia database which has information about the salary, type of profession, institution, and year ranging from 2010-2018. I used the genderize API to obtain information on gender based on first name. I found that in general, women employees have lower salaries than their male counterparts, by over 40%. The reason for this is two-fold:
 
-1) The proportion of women in low paying jobs (substitute teacher, 24%) relative to the total number of women in the dataset is significantly higher than the relative proportion of men (13%) in low paying jobs. Whereas the relative proportion of men in high paying jobs (professor, 3%) is significantly higher than the relative proportion of women (1%) in professor jobs.
+1) The proportion of women in low paying jobs (substitute teacher, 8%) relative to the total number of women in the dataset is significantly higher than the relative proportion of men (5%) in low paying jobs. Whereas the relative proportion of men in high paying jobs (professor, ~1-2%) is significantly higher than the relative proportion of women (<0.5%) in professor jobs.
 
 2) The percent difference between salaries of men and women in the same profession increases as the salary increases (yes, the percent difference!).
 
